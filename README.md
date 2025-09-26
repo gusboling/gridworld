@@ -7,7 +7,7 @@ a generalized framework for simulating a 2 dimensional environment.
 
 ## Architecture
 This project should follow a model-view-controller architecture (mostly because
-its the first relevant thing I found on Wikipedia; fuck it).
+its the first relevant thing I found on Wikipedia).
 
 A random search of the interwebs finds us [this post](https://www.reddit.com/r/golang/comments/a3lojm/comment/eb7usaf/?utm_source=share&utm_medium=web2x&context=3) on the "/r/golang" subreddit, which gives us the following comment:
 
